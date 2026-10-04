@@ -1,16 +1,17 @@
-## Hi there 👋
+### ♡ hello! ♡
 
-<!--
-**papayawhip117/papayawhip117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----> Aaliyah N.F.
 
-Here are some ideas to get you started:
+`☾` learning GitHub + code
+`✦` making things
+`♡` little projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+୨୧ ───────────── ୨୧
+
+## little projects ✧
+
+coming soon...
+
+♡
+
+୨୧ ───────────── ୨୧
