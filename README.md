@@ -13,7 +13,7 @@
 ## projects ✧
 
 - SDV search engine+gaming tool (completed)
-- Forest Sanctuary login system
+- Forest Sanctuary login system (ongoing project)
 
 ## current skill focus' ✧
 
