@@ -10,7 +10,7 @@
 
 ## projects ✧
 
-- SDV search engine+gaming tool #completed+ongoing#
+- SDV search engine+gaming tool = completed+ongoing 
 
 ♡
 
