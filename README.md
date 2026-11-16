@@ -4,13 +4,13 @@
 
 `☾` learning GitHub + code
 `✦` making things
-`♡` little projects
+`♡` personal development projects
 
 ୨୧ ───────────── ୨୧
 
-## little projects ✧
+## projects ✧
 
-- SDV search engine+gaming tool
+- SDV search engine+gaming tool #completed+ongoing#
 
 ♡
 
