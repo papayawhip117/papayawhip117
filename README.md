@@ -2,9 +2,11 @@
 
 -----> Aaliyah N.F.
 
-"☾" learning software development + building in public
-"✦" creating personal projects that are also practical tools
-"♡" exploring technology + problem solving + development
+☾ learning software development + building in public
+
+✦ creating personal projects that are also practical tools
+
+♡ exploring technology + problem solving + development
 
 ୨୧ ───────────── ୨୧
 
