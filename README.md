@@ -10,7 +10,7 @@
 
 ## little projects ✧
 
-coming soon...
+- SDV search engine+gaming tool
 
 ♡
 
