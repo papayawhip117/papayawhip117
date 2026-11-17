@@ -13,7 +13,9 @@
 ## projects ✧
 
 - SDV search engine+gaming tool (completed)
-- Forest Sanctuary login system (ongoing project)
+- Forest Sanctuary login system (completed)
+- My Little Internet
+- 2D scrolling web game 
 
 ## current skill focus' ✧
 
