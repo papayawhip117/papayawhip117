@@ -15,7 +15,7 @@
 - SDV search engine+gaming tool (completed)
 - Forest Sanctuary login system (completed)
 - My Little Internet
-- 2D scrolling web game “Paw Pal” (in progress) 
+- 2D scrolling web game “My Cozy Market” (in progress) 
 
 ## current skill focus' ✧
 
